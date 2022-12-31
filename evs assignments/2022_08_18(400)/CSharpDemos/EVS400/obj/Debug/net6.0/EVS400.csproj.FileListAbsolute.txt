@@ -1,0 +1,24 @@
+D:\Classes\01Dotnet\Dotnet400\2022_08_18(400)\CSharpDemos\EVS400\bin\Debug\net6.0\EVS400.deps.json
+D:\Classes\01Dotnet\Dotnet400\2022_08_18(400)\CSharpDemos\EVS400\bin\Debug\net6.0\EVS400.dll
+D:\Classes\01Dotnet\Dotnet400\2022_08_18(400)\CSharpDemos\EVS400\bin\Debug\net6.0\EVS400.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.csproj.AssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet400\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.GeneratedMSBuildEditorConfig.editorconfig
+D:\Classes\01Dotnet\Dotnet400\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.AssemblyInfoInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.AssemblyInfo.cs
+D:\Classes\01Dotnet\Dotnet400\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.dll
+D:\Classes\01Dotnet\Dotnet400\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\refint\EVS400.dll
+D:\Classes\01Dotnet\Dotnet400\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\ref\EVS400.dll
+C:\c#\evs assignments\2022_08_18(400)\CSharpDemos\EVS400\bin\Debug\net6.0\EVS400.deps.json
+C:\c#\evs assignments\2022_08_18(400)\CSharpDemos\EVS400\bin\Debug\net6.0\EVS400.dll
+C:\c#\evs assignments\2022_08_18(400)\CSharpDemos\EVS400\bin\Debug\net6.0\EVS400.pdb
+C:\c#\evs assignments\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.csproj.AssemblyReference.cache
+C:\c#\evs assignments\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\evs assignments\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.AssemblyInfoInputs.cache
+C:\c#\evs assignments\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.AssemblyInfo.cs
+C:\c#\evs assignments\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.csproj.CoreCompileInputs.cache
+C:\c#\evs assignments\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.dll
+C:\c#\evs assignments\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\refint\EVS400.dll
+C:\c#\evs assignments\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\EVS400.pdb
+C:\c#\evs assignments\2022_08_18(400)\CSharpDemos\EVS400\obj\Debug\net6.0\ref\EVS400.dll

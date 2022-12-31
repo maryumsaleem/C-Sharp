@@ -1,0 +1,123 @@
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.exe
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.AssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_19(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.exe
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.AssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_20(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.exe
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.AssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_21(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.exe
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.AssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_27(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.exe
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.AssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+D:\Classes\01Dotnet\Dotnet400\2022_07_29(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.exe
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.AssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+D:\Classes\01Dotnet\Dotnet400\2022_08_04(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.exe
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.AssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+D:\Classes\01Dotnet\Dotnet400\2022_08_16(400)\CSharpDemos\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.exe
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.dll
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\bin\Debug\net6.0\EVS400.dll
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\bin\Debug\net6.0\EVS400.pdb
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.AssemblyReference.cache
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CopyComplete
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.dll
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+C:\c#\evs assignments\2022_08_16(400) - Copy\CSharpDemos\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll

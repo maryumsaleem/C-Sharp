@@ -1,0 +1,16 @@
+C:\c#\ConsoleApptest\ConsoleApptest\obj\Debug\net5.0\ConsoleApptest.csproj.AssemblyReference.cache
+C:\c#\ConsoleApptest\ConsoleApptest\obj\Debug\net5.0\ConsoleApptest.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ConsoleApptest\ConsoleApptest\obj\Debug\net5.0\ConsoleApptest.AssemblyInfoInputs.cache
+C:\c#\ConsoleApptest\ConsoleApptest\obj\Debug\net5.0\ConsoleApptest.AssemblyInfo.cs
+C:\c#\ConsoleApptest\ConsoleApptest\obj\Debug\net5.0\ConsoleApptest.csproj.CoreCompileInputs.cache
+C:\c#\ConsoleApptest\ConsoleApptest\bin\Debug\net5.0\ConsoleApptest.exe
+C:\c#\ConsoleApptest\ConsoleApptest\bin\Debug\net5.0\ConsoleApptest.deps.json
+C:\c#\ConsoleApptest\ConsoleApptest\bin\Debug\net5.0\ConsoleApptest.runtimeconfig.json
+C:\c#\ConsoleApptest\ConsoleApptest\bin\Debug\net5.0\ConsoleApptest.runtimeconfig.dev.json
+C:\c#\ConsoleApptest\ConsoleApptest\bin\Debug\net5.0\ConsoleApptest.dll
+C:\c#\ConsoleApptest\ConsoleApptest\bin\Debug\net5.0\ref\ConsoleApptest.dll
+C:\c#\ConsoleApptest\ConsoleApptest\bin\Debug\net5.0\ConsoleApptest.pdb
+C:\c#\ConsoleApptest\ConsoleApptest\obj\Debug\net5.0\ConsoleApptest.dll
+C:\c#\ConsoleApptest\ConsoleApptest\obj\Debug\net5.0\ref\ConsoleApptest.dll
+C:\c#\ConsoleApptest\ConsoleApptest\obj\Debug\net5.0\ConsoleApptest.pdb
+C:\c#\ConsoleApptest\ConsoleApptest\obj\Debug\net5.0\ConsoleApptest.genruntimeconfig.cache

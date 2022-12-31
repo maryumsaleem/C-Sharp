@@ -1,0 +1,15 @@
+C:\c#\Assignment2Task1\Assignment2Task1\bin\Debug\net6.0\Assignment2Task1.exe
+C:\c#\Assignment2Task1\Assignment2Task1\bin\Debug\net6.0\Assignment2Task1.deps.json
+C:\c#\Assignment2Task1\Assignment2Task1\bin\Debug\net6.0\Assignment2Task1.runtimeconfig.json
+C:\c#\Assignment2Task1\Assignment2Task1\bin\Debug\net6.0\Assignment2Task1.dll
+C:\c#\Assignment2Task1\Assignment2Task1\bin\Debug\net6.0\Assignment2Task1.pdb
+C:\c#\Assignment2Task1\Assignment2Task1\obj\Debug\net6.0\Assignment2Task1.csproj.AssemblyReference.cache
+C:\c#\Assignment2Task1\Assignment2Task1\obj\Debug\net6.0\Assignment2Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Assignment2Task1\Assignment2Task1\obj\Debug\net6.0\Assignment2Task1.AssemblyInfoInputs.cache
+C:\c#\Assignment2Task1\Assignment2Task1\obj\Debug\net6.0\Assignment2Task1.AssemblyInfo.cs
+C:\c#\Assignment2Task1\Assignment2Task1\obj\Debug\net6.0\Assignment2Task1.csproj.CoreCompileInputs.cache
+C:\c#\Assignment2Task1\Assignment2Task1\obj\Debug\net6.0\Assignment2Task1.dll
+C:\c#\Assignment2Task1\Assignment2Task1\obj\Debug\net6.0\refint\Assignment2Task1.dll
+C:\c#\Assignment2Task1\Assignment2Task1\obj\Debug\net6.0\Assignment2Task1.pdb
+C:\c#\Assignment2Task1\Assignment2Task1\obj\Debug\net6.0\Assignment2Task1.genruntimeconfig.cache
+C:\c#\Assignment2Task1\Assignment2Task1\obj\Debug\net6.0\ref\Assignment2Task1.dll

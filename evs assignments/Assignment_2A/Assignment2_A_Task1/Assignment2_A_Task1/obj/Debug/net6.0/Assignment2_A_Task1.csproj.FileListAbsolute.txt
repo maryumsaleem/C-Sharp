@@ -1,0 +1,15 @@
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\bin\Debug\net6.0\Assignment2_A_Task1.exe
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\bin\Debug\net6.0\Assignment2_A_Task1.deps.json
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\bin\Debug\net6.0\Assignment2_A_Task1.runtimeconfig.json
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\bin\Debug\net6.0\Assignment2_A_Task1.dll
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\bin\Debug\net6.0\Assignment2_A_Task1.pdb
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\obj\Debug\net6.0\Assignment2_A_Task1.csproj.AssemblyReference.cache
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\obj\Debug\net6.0\Assignment2_A_Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\obj\Debug\net6.0\Assignment2_A_Task1.AssemblyInfoInputs.cache
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\obj\Debug\net6.0\Assignment2_A_Task1.AssemblyInfo.cs
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\obj\Debug\net6.0\Assignment2_A_Task1.csproj.CoreCompileInputs.cache
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\obj\Debug\net6.0\Assignment2_A_Task1.dll
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\obj\Debug\net6.0\refint\Assignment2_A_Task1.dll
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\obj\Debug\net6.0\Assignment2_A_Task1.pdb
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\obj\Debug\net6.0\Assignment2_A_Task1.genruntimeconfig.cache
+C:\c#\evs assignments\Assignment_2A\Assignment2_A_Task1\Assignment2_A_Task1\obj\Debug\net6.0\ref\Assignment2_A_Task1.dll

@@ -1,0 +1,12 @@
+C:\c#\NameSpaces\ProjectA.TeamA\bin\Debug\net6.0\ProjectA.TeamA.deps.json
+C:\c#\NameSpaces\ProjectA.TeamA\bin\Debug\net6.0\ProjectA.TeamA.dll
+C:\c#\NameSpaces\ProjectA.TeamA\bin\Debug\net6.0\ProjectA.TeamA.pdb
+C:\c#\NameSpaces\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.csproj.AssemblyReference.cache
+C:\c#\NameSpaces\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\NameSpaces\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.AssemblyInfoInputs.cache
+C:\c#\NameSpaces\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.AssemblyInfo.cs
+C:\c#\NameSpaces\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.csproj.CoreCompileInputs.cache
+C:\c#\NameSpaces\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.dll
+C:\c#\NameSpaces\ProjectA.TeamA\obj\Debug\net6.0\refint\ProjectA.TeamA.dll
+C:\c#\NameSpaces\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.pdb
+C:\c#\NameSpaces\ProjectA.TeamA\obj\Debug\net6.0\ref\ProjectA.TeamA.dll

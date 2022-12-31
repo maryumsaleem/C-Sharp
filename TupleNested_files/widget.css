@@ -1,0 +1,42 @@
+﻿.CodeMirror-hints {
+	border-radius: 0 !important;
+	font-size: 12px !important;
+}
+
+.CodeMirror-hint {
+	border: 1px solid #fff;
+	max-width: 25em !important;
+	padding-left: 0 !important;
+}
+
+.CodeMirror-hint-active.unfocus {
+	border: 1px solid #08f;
+	background: #fff;
+	color: black;
+}
+
+@media (min-width:992px) {
+	.textarea-output {
+		border: none;
+		border-top: 0 !important;
+		border-left: 1px solid #DDD !important;
+	}
+
+	div.col-output, div.col-code {
+		height: 100% !important;
+	}
+
+	.cm-s-widget {
+		height: 100% !important;
+	}
+
+	.widget-content div[class*='col-xs-'] {
+		height: 100%;
+	}
+}
+
+@media (max-width:991px) {
+	.cm-s-widget {
+		height: 100% !important;
+	}
+}

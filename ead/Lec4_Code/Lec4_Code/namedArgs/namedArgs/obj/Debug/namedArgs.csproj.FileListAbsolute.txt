@@ -1,0 +1,12 @@
+c:\users\wasimahmad\documents\visual studio 2013\Projects\namedArgs\namedArgs\bin\Debug\namedArgs.exe.config
+c:\users\wasimahmad\documents\visual studio 2013\Projects\namedArgs\namedArgs\bin\Debug\namedArgs.exe
+c:\users\wasimahmad\documents\visual studio 2013\Projects\namedArgs\namedArgs\bin\Debug\namedArgs.pdb
+c:\users\wasimahmad\documents\visual studio 2013\Projects\namedArgs\namedArgs\obj\Debug\namedArgs.exe
+c:\users\wasimahmad\documents\visual studio 2013\Projects\namedArgs\namedArgs\obj\Debug\namedArgs.pdb
+c:\users\wasimahmad\documents\visual studio 2013\Projects\namedArgs\namedArgs\obj\Debug\namedArgs.csprojResolveAssemblyReference.cache
+H:\E\Wasim\Students\EAD\F13\lec3\Lec3_Code\namedArgs\namedArgs\bin\Debug\namedArgs.exe.config
+H:\E\Wasim\Students\EAD\F13\lec3\Lec3_Code\namedArgs\namedArgs\bin\Debug\namedArgs.exe
+H:\E\Wasim\Students\EAD\F13\lec3\Lec3_Code\namedArgs\namedArgs\bin\Debug\namedArgs.pdb
+H:\E\Wasim\Students\EAD\F13\lec3\Lec3_Code\namedArgs\namedArgs\obj\Debug\namedArgs.csprojResolveAssemblyReference.cache
+H:\E\Wasim\Students\EAD\F13\lec3\Lec3_Code\namedArgs\namedArgs\obj\Debug\namedArgs.exe
+H:\E\Wasim\Students\EAD\F13\lec3\Lec3_Code\namedArgs\namedArgs\obj\Debug\namedArgs.pdb

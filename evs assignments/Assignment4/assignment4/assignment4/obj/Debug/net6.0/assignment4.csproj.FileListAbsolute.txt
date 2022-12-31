@@ -1,0 +1,15 @@
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\bin\Debug\net6.0\assignment4.exe
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\bin\Debug\net6.0\assignment4.deps.json
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\bin\Debug\net6.0\assignment4.runtimeconfig.json
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\bin\Debug\net6.0\assignment4.dll
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\bin\Debug\net6.0\assignment4.pdb
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\obj\Debug\net6.0\assignment4.csproj.AssemblyReference.cache
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\obj\Debug\net6.0\assignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\obj\Debug\net6.0\assignment4.AssemblyInfoInputs.cache
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\obj\Debug\net6.0\assignment4.AssemblyInfo.cs
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\obj\Debug\net6.0\assignment4.csproj.CoreCompileInputs.cache
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\obj\Debug\net6.0\assignment4.dll
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\obj\Debug\net6.0\refint\assignment4.dll
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\obj\Debug\net6.0\assignment4.pdb
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\obj\Debug\net6.0\assignment4.genruntimeconfig.cache
+C:\c#\evs assignments\Assignment4\assignment4\assignment4\obj\Debug\net6.0\ref\assignment4.dll

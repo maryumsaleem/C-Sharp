@@ -1,0 +1,16 @@
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\bin\Debug\net5.0\Assignment1Task8.exe
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\bin\Debug\net5.0\Assignment1Task8.deps.json
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\bin\Debug\net5.0\Assignment1Task8.runtimeconfig.json
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\bin\Debug\net5.0\Assignment1Task8.runtimeconfig.dev.json
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\bin\Debug\net5.0\Assignment1Task8.dll
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\bin\Debug\net5.0\ref\Assignment1Task8.dll
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\bin\Debug\net5.0\Assignment1Task8.pdb
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\obj\Debug\net5.0\Assignment1Task8.csproj.AssemblyReference.cache
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\obj\Debug\net5.0\Assignment1Task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\obj\Debug\net5.0\Assignment1Task8.AssemblyInfoInputs.cache
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\obj\Debug\net5.0\Assignment1Task8.AssemblyInfo.cs
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\obj\Debug\net5.0\Assignment1Task8.csproj.CoreCompileInputs.cache
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\obj\Debug\net5.0\Assignment1Task8.dll
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\obj\Debug\net5.0\ref\Assignment1Task8.dll
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\obj\Debug\net5.0\Assignment1Task8.pdb
+C:\c#\evs assignments\Assignment1Task8\Assignment1Task8\obj\Debug\net5.0\Assignment1Task8.genruntimeconfig.cache

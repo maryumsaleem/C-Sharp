@@ -1,0 +1,15 @@
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\bin\Debug\net6.0\Assignment_2A_Task9.exe
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\bin\Debug\net6.0\Assignment_2A_Task9.deps.json
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\bin\Debug\net6.0\Assignment_2A_Task9.runtimeconfig.json
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\bin\Debug\net6.0\Assignment_2A_Task9.dll
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\bin\Debug\net6.0\Assignment_2A_Task9.pdb
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\obj\Debug\net6.0\Assignment_2A_Task9.csproj.AssemblyReference.cache
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\obj\Debug\net6.0\Assignment_2A_Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\obj\Debug\net6.0\Assignment_2A_Task9.AssemblyInfoInputs.cache
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\obj\Debug\net6.0\Assignment_2A_Task9.AssemblyInfo.cs
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\obj\Debug\net6.0\Assignment_2A_Task9.csproj.CoreCompileInputs.cache
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\obj\Debug\net6.0\Assignment_2A_Task9.dll
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\obj\Debug\net6.0\refint\Assignment_2A_Task9.dll
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\obj\Debug\net6.0\Assignment_2A_Task9.pdb
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\obj\Debug\net6.0\Assignment_2A_Task9.genruntimeconfig.cache
+C:\c#\evs assignments\Assignment_2A\Assignment_2A_Task9\Assignment_2A_Task9\obj\Debug\net6.0\ref\Assignment_2A_Task9.dll

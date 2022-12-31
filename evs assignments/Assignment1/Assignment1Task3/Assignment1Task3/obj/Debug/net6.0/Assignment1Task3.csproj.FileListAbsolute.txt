@@ -1,0 +1,15 @@
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\bin\Debug\net6.0\Assignment1Task3.exe
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\bin\Debug\net6.0\Assignment1Task3.deps.json
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\bin\Debug\net6.0\Assignment1Task3.runtimeconfig.json
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\bin\Debug\net6.0\Assignment1Task3.dll
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\bin\Debug\net6.0\Assignment1Task3.pdb
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\obj\Debug\net6.0\Assignment1Task3.csproj.AssemblyReference.cache
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\obj\Debug\net6.0\Assignment1Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\obj\Debug\net6.0\Assignment1Task3.AssemblyInfoInputs.cache
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\obj\Debug\net6.0\Assignment1Task3.AssemblyInfo.cs
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\obj\Debug\net6.0\Assignment1Task3.csproj.CoreCompileInputs.cache
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\obj\Debug\net6.0\Assignment1Task3.dll
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\obj\Debug\net6.0\refint\Assignment1Task3.dll
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\obj\Debug\net6.0\Assignment1Task3.pdb
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\obj\Debug\net6.0\Assignment1Task3.genruntimeconfig.cache
+C:\Users\Laulla\source\repos\Assignment1Task3\Assignment1Task3\obj\Debug\net6.0\ref\Assignment1Task3.dll

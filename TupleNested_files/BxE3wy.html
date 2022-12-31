@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<!-- saved from url=(0038)https://dotnetfiddle.net/Widget/BxE3wy -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>C# Online Compiler | .NET Fiddle</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=9">
+
+    
+
+    
+    <meta http-equiv="edit-Type" edit="text/html; charset=utf-8">
+
+    
+    <link href="./codemirrorcss" rel="stylesheet">
+
+    <link href="./widget.css" rel="stylesheet">
+
+
+    <style type="text/css">
+
+	    #output {
+		    padding: 5px 8px;
+	    }
+
+    </style>
+
+	<link href="./bootstrap.min(1).css" rel="stylesheet">
+
+    <link href="./widget" rel="stylesheet">
+
+<style>.CodeMirror { height: 462px} .output { height: 453px}</style></head>
+<body data-new-gr-c-s-check-loaded="14.1063.0" data-gr-ext-installed="" data-new-gr-c-s-loaded="14.1063.0">
+    
+
+
+
+    <!-- Console -->
+<input type="hidden" id="OriginalConsole-0" value="using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		var numbers = Tuple.Create(1, 2, 3, 4, 5, 6, 7, Tuple.Create(8, 9, 10, 11, 12, 13));
+		Console.WriteLine(numbers.Item1); // returns 1
+		Console.WriteLine(numbers.Item7); // returns 7
+		Console.WriteLine(numbers.Rest.Item1); //returns (8, 9, 10, 11, 12, 13)
+		Console.WriteLine(numbers.Rest.Item1.Item1); //returns 8
+		Console.WriteLine(numbers.Rest.Item1.Item2); //returns 9
+	}
+}">
+<!-- Script -->
+    <input type="hidden" id="OriginalScript-0" value="using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		var numbers = Tuple.Create(1, 2, 3, 4, 5, 6, 7, Tuple.Create(8, 9, 10, 11, 12, 13));
+		Console.WriteLine(numbers.Item1); // returns 1
+		Console.WriteLine(numbers.Item7); // returns 7
+		Console.WriteLine(numbers.Rest.Item1); //returns (8, 9, 10, 11, 12, 13)
+		Console.WriteLine(numbers.Rest.Item1.Item1); //returns 8
+		Console.WriteLine(numbers.Rest.Item1.Item2); //returns 9
+	}
+}">
+
+<!-- Console -->
+<input type="hidden" id="OriginalConsole">
+
+<!-- Script -->
+<input type="hidden" id="OriginalScript">
+
+<input type="hidden" id="OriginalCodeBlock">
+<input type="hidden" id="OriginalFiddleId">
+<input type="hidden" id="TimeOffset">
+<input type="hidden" id="ProjectType" value="Console">
+<input type="hidden" id="Language" name="Language" value="CSharp">
+<input type="hidden" id="Compiler" value="Net45">
+
+<input id="OriginalNuGetPackageVersionIds" type="hidden" value="">
+<input id="NuGetPackageVersionIds" type="hidden" value="">
+
+<div id="main">
+    <div class="row widget">
+	    <div class="col-xs-5 col-md-5">
+		    <button type="button" value="Run" class="btn btn-default" onclick="fiddle.run();">
+			    <span class="glyphicon glyphicon-play"></span>&nbsp;Run
+		    </button>
+	    </div>
+	    <div class="col-xs-7 col-md-7">
+		    <ul id="tabs" class="nav nav-tabs widget-lang-tabs">
+			    <li class="active"><a href="https://dotnetfiddle.net/Widget/BxE3wy#" language-id="1">C#</a></li><li class="site-link">
+				    <a href="https://dotnetfiddle.net/BxE3wy" target="_blank" id="site-link">Edit in .NET Fiddle</a>
+			    </li>
+		    </ul>
+	    </div>
+    </div>
+
+    <div class="row widget-content">
+    <div class="col-xs-12 col-sm-12 col-md-6 col-code active">
+        <textarea id="Console" class="textarea-code code-block">using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		var numbers = Tuple.Create(1, 2, 3, 4, 5, 6, 7, Tuple.Create(8, 9, 10, 11, 12, 13));
+		Console.WriteLine(numbers.Item1); // returns 1
+		Console.WriteLine(numbers.Item7); // returns 7
+		Console.WriteLine(numbers.Rest.Item1); //returns (8, 9, 10, 11, 12, 13)
+		Console.WriteLine(numbers.Rest.Item1.Item1); //returns 8
+		Console.WriteLine(numbers.Rest.Item1.Item2); //returns 9
+	}
+}</textarea>
+    <div class="CodeMirror cm-s-widget CodeMirror-focused" style="width: 100%;"><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 4px; left: 150.094px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-vscrollbar" tabindex="-1" cm-not-content="true"><div style="min-width: 1px; height: 0px;"></div></div><div class="CodeMirror-hscrollbar" tabindex="-1" cm-not-content="true" style="display: block; right: 0px; left: 46px;"><div style="height: 100%; min-height: 1px; width: 716px;"></div></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 46px; margin-bottom: -17px; border-right-width: 13px; min-height: 288px; min-width: 715.5px; padding-right: 0px; padding-bottom: 17px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>14</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-cursors" style=""><div class="CodeMirror-cursor" style="left: 104.094px; top: 0px; height: 20px;">&nbsp;</div></div><div class="CodeMirror-code" role="presentation" style=""><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-keyword">using</span> <span class="cm-variable">System</span>;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">2</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" class="cm-tab-wrap-hack" style="padding-right: 0.1px;"><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-tab" role="presentation" cm-text="	">    </span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">3</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-keyword">public</span> <span class="cm-keyword">class</span> <span class="cm-def">Program</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">4</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">{</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">5</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-keyword">public</span> <span class="cm-keyword">static</span> <span class="cm-keyword">void</span> <span class="cm-variable">Main</span>()</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">6</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tab" role="presentation" cm-text="	">    </span>{</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">7</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-keyword">var</span> <span class="cm-def">numbers</span> <span class="cm-operator">=</span> <span class="cm-variable">Tuple</span>.<span class="cm-variable">Create</span>(<span class="cm-number">1</span>, <span class="cm-number">2</span>, <span class="cm-number">3</span>, <span class="cm-number">4</span>, <span class="cm-number">5</span>, <span class="cm-number">6</span>, <span class="cm-number">7</span>, <span class="cm-variable">Tuple</span>.<span class="cm-variable">Create</span>(<span class="cm-number">8</span>, <span class="cm-number">9</span>, <span class="cm-number">10</span>, <span class="cm-number">11</span>, <span class="cm-number">12</span>, <span class="cm-number">13</span>));</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">8</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-variable">Console</span>.<span class="cm-variable">WriteLine</span>(<span class="cm-variable">numbers</span>.<span class="cm-variable">Item1</span>); <span class="cm-comment">// returns 1</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">9</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-variable">Console</span>.<span class="cm-variable">WriteLine</span>(<span class="cm-variable">numbers</span>.<span class="cm-variable">Item7</span>); <span class="cm-comment">// returns 7</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">10</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-variable">Console</span>.<span class="cm-variable">WriteLine</span>(<span class="cm-variable">numbers</span>.<span class="cm-variable">Rest</span>.<span class="cm-variable">Item1</span>); <span class="cm-comment">//returns (8, 9, 10, 11, 12, 13)</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">11</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-variable">Console</span>.<span class="cm-variable">WriteLine</span>(<span class="cm-variable">numbers</span>.<span class="cm-variable">Rest</span>.<span class="cm-variable">Item1</span>.<span class="cm-variable">Item1</span>); <span class="cm-comment">//returns 8</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">12</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-tab" role="presentation" cm-text="	">    </span><span class="cm-variable">Console</span>.<span class="cm-variable">WriteLine</span>(<span class="cm-variable">numbers</span>.<span class="cm-variable">Rest</span>.<span class="cm-variable">Item1</span>.<span class="cm-variable">Item2</span>); <span class="cm-comment">//returns 9</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">13</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tab" role="presentation" cm-text="	">    </span>}</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -46px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 16px; width: 21px;">14</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">}</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 13px; width: 1px; border-bottom: 17px solid transparent; top: 288px;"></div><div class="CodeMirror-gutters" style="height: 318px;"><div class="CodeMirror-gutter CodeMirror-lint-markers"></div><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 29px;"></div></div></div></div></div>
+    <div class="col-xs-12 col-sm-12 col-md-6 col-output">
+        <div class="textarea-output">
+			<div id="resultCache" style="">Cached Result</div>
+            <div id="output" class="output" style="height: auto;">1<br>7<br>(8,&nbsp;9,&nbsp;10,&nbsp;11,&nbsp;12,&nbsp;13)<br>8<br>9</div>
+            <div id="input" contenteditable="true" style="display: none;"></div>
+        </div>
+        <div id="stats-loader" style="display: none;">
+            <div class="bg"></div>
+            <div class="spin"></div>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="modal fade" id="preload-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="normal-header modal-title">Loading packages and dependencies</h4>
+            </div>
+            <div class="modal-body">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="overlay" unselectable="on" onselectstart="return false;" onmousedown="return false;"></div>
+
+
+<script async="" src="./analytics.js.download"></script><script id="widget-console-template" type="text/x-handlebars-template">
+    <div class="col-xs-12 col-sm-12 col-md-6 col-code active">
+        <textarea id="Console" class="textarea-code code-block">{{codeBlocks.Console}}</textarea>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-6 col-output">
+        <div class="textarea-output">
+			<div id="resultCache" style="display: none;">Cached Result</div>
+            <div id="output" class="output" style="height: auto;"></div>
+            <div id="input" contenteditable="true"></div>
+        </div>
+        <div id="stats-loader" style="display: none;">
+            <div class="bg"></div>
+            <div class="spin"></div>
+        </div>
+    </div>
+</script>
+
+<script id="widget-script-template" type="text/x-handlebars-template">
+    <div class="col-xs-12 col-sm-12 col-md-6 col-code active">
+        <textarea id="Script" class="textarea-code code-block">{{codeBlocks.Script}}</textarea>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-6 col-output">
+        <div class="textarea-output">
+            <div id="output" class="output" style="height: auto;"></div>
+            <div id="input" contenteditable="true"></div>
+        </div>
+        <div id="stats-loader" style="display: none;">
+            <div class="bg"></div>
+            <div class="spin"></div>
+        </div>
+    </div>
+</script>
+
+<style>
+	/* bootstrap table */
+	.table-inverse {
+		margin: 10px 0;
+	}
+	.table-inverse thead {
+		background-color: #222;
+		color: #fff;
+	}
+	h5.table-header {
+		background-color: #111;
+		color: #fff;
+		font-weight: bold;
+		font-family: monospace;
+		margin: 0 1px;
+		padding: 10px;
+		position: relative;
+		top: 11px;
+	}
+	.profiler-results {
+		display: none;
+	}
+	.widget {
+		background-color: #f7f7f7;
+		border-left: 1px solid #ddd;
+		border-right: 1px solid #ddd;
+		border-top: 1px solid #ddd;
+	}
+	.widget .col-xs-5 {
+		padding-left: 45px;
+	}
+	.widget .col-xs-5 .btn-default {
+		background-color: #2a6496;
+		border-radius: 0;
+		color: #fff;
+		padding-bottom: 5px;
+		padding-top: 5px;
+		width: 100px;
+	}
+	.widget .active {
+		display: none;
+	}
+	#resultCache {
+		background-color: #fff3cd;
+		font-size: 1.25rem;
+		font-weight: bold;
+		padding: 5px 5px;
+	}
+
+	.widget-content .col-code.col-vertical {
+		height: 70% !important;
+		padding: 0px;
+	}
+	.widget-content .col-output.col-vertical {
+		height: 30% !important;
+		padding: 0px;
+	}
+
+	@media (min-width:992px) {
+		.widget-content .col-output.col-vertical .textarea-output {
+			border: none;
+			border-top: 1px solid #DDD !important;
+		}
+	}
+</style>
+
+    
+    <script src="./jquery"></script>
+
+
+    <script type="text/javascript">
+        (function () {
+            var style = document.createElement("style"), height = window.innerHeight;
+            style.appendChild(document.createTextNode(".CodeMirror { height: " + (height - 38) + "px} .output { height: " + (height - 47) + "px}"));
+            document.head.appendChild(style);
+        })();
+    </script>
+
+    
+    <script type="text/javascript">
+        var fiddles = [];
+    </script>
+
+    <script src="./bootstrap.min.js(1).download"></script>
+
+    <script src="./jqueryui"></script>
+
+    <script src="./codemirror"></script>
+
+    <script src="./widget(1)"></script>
+
+
+    <script type="text/javascript">
+
+    var newFiddle;
+
+		
+
+    	var pr = ProjectTypesDict[1];;
+    	var compiler = CompilersDict[1];;
+		var code = $('#Original' + pr + '-' + '0').val();
+
+    codeBlocks.Add("1", "BxE3wy", code);
+
+    newFiddle = new Fiddle();
+
+    var cbs = {};
+    cbs[pr] = code
+    console.log('cbs', cbs);
+    newFiddle.init({
+        fiddleId: "BxE3wy",
+        language: LanguagesDict["1"],
+        projectType: pr,
+        codeBlocks: cbs,
+        compiler: compiler,
+    });
+
+    fiddles.push(newFiddle);
+    
+
+    $(document).ready(function() {
+
+        ready(1, 1, 1);
+        fiddle = fiddles[0];
+
+        var anchor = null;
+
+        $.each(codeBlocks.Collection, function(ind, val) {
+            var codeBlock = val;
+            var a = insertTab(codeBlock.LanguageId);
+            if(ind==0)
+                anchor = a;
+        });
+
+        anchor.click();
+
+
+        $("#site-link").click(function(e) {
+            var self = this;
+            $.ajax({
+                url: "/Widget/GetDotNetFiddleUrl",
+                type: "POST",
+                async: false,
+                contentType: "application/json",
+                data: JSON.stringify(fiddle.getWidgetRequest()),
+                success: function(url) {
+
+                    if (url == null) {
+                        e.preventDefault();
+                        return false;
+                    }
+                    self.href = url;
+                    return true;
+                }
+            });
+		});
+
+        fiddle.runUseResultCache();
+    });
+</script>
+
+
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-45542977-1', 'dotnetfiddle.net');
+            ga('send', 'pageview');
+        </script>
+	
+	<style id="profiler-minimizer-css">
+		.profiler-results {
+			display: none;
+		}
+	</style>
+	<script type="text/javascript" id="profiler-minimizer">
+		$(document).ready(function () {
+			 var e = function () {
+			 	var e = $(".profiler-results");
+			 	if (e.length == 0) return false;
+			 	e.addClass("profiler-min");
+				 return true;
+			 };
+			
+			var t = function () {
+				var n = e();
+				if (n) {
+					$("#profiler-minimizer").remove(); $("#profiler-minimizer-css").remove();
+					return;
+				}
+				setTimeout(t, 50);
+			};
+			t();
+		})
+	</script>;
+
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
